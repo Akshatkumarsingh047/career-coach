@@ -34,7 +34,7 @@ export default function LandingPage() {
       {/* Features Section */}
 
    
-      <section className="w-full py-12 bg-background/70 md:py-24 lg:py-32">
+      <section className="w-full py-12 bg-background md:py-24 lg:py-32">
     
      
         <div className="container px-4 mx-auto md:px-6">

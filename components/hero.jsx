@@ -31,11 +31,12 @@ const HeroSection = () => {
     <section className="w-full pb-10 pt-36 md:pt-48">
       <div className="space-y-6 text-center">
       <VideoBackground
-        videoSrc="/videos/bg-video.mp4"
+        videoSrc="/videos/bg-video3.mp4"
         fallbackImageSrc="/herobg.jpg"
         
       />
-        <div className="mx-auto space-y-6">
+        <div className="mx-auto space-y-6 ">
+        
           <h1 className="text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl gradient-title animate-gradient">
             Your AI Career Coach for
             <br />

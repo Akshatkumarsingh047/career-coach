@@ -38,7 +38,7 @@ export default function VideoBackground({fallbackImageSrc,videoSrc}) {
       </video>
       <div
         className={
-          "absolute inset-0 bg-black/60 saturate-150 hue-rotate-30"
+          "absolute inset-0  saturate-150 hue-rotate-30 blur-sm"
           
         }
       />
